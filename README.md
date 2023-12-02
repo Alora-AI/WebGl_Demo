@@ -1,1 +1,2 @@
 # WebGl_Demo
+# The content of the project files currently only includes Avatar, and subsequent updates will incorporate WebGL for voice recognition, facilitating the integration of AI-driven facial expressions matched to the model. Eraj can outline his thoughts on aspects such as the choice of API for speech recognition, the preferred model for seamless integration with the AI API, and other relevant considerations.   12:53 2/12/2023 UK
